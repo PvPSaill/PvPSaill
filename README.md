@@ -1,8 +1,7 @@
--Bonjour nous somme l'équipe de PvPSaill
--Nous somme une équipe de serveur Minecraft
--Sur notre GitHub vous pourez trouve  tous les projets de PvPSaill
--Pour nous suivre vous pourrez rejoidre notre Discord :
--https://discord.gg/xhwrqnS8jJ
+Bienvenue sur notre Github vous pourrez ainsi trouver les fichiers des nos projets
+Attention  il est formellement interdit de reutiliser nos fichiers et de les poster 
+merci de bien vou comprendre celà .
+Bonne aventure de codage sur notre github :)
 
 <!---
 PvPSaill/PvPSaill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
